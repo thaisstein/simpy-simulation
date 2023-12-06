@@ -1,5 +1,6 @@
-# simpy-simulation
-Simulation class project using simpy library
+# Simulation and metrology within an infinite capacity queue
+
+## Simulation class project using simpy library
 
 The goal of the project is simulate a heterogeneous traffic flow trough an infinite capacity queue with a 100Mbps constant bit rate in order to observe the response time of each traffic class and the impact of the burstiness in the response times. The rate of the source is constant bit rate but the sizes of the packets are different for each source, resulting in different service times for different packets types.
 
